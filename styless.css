@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(120deg, #c64ae6, #333436);
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 20px;
+}
